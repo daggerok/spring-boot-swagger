@@ -1,0 +1,5 @@
+= spring-boot-swagger image:https://travis-ci.org/daggerok/spring-boot-swagger.svg?branch=master["build status", link="https://travis-ci.org/daggerok/spring-boot-swagger"]
+
+[source,bash]
+gradle bootRun
+open http://localhost:8080/api/swagger-ui.html
